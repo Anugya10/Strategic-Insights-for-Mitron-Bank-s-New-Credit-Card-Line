@@ -21,3 +21,5 @@ In the Mitron Bank Credit Card Expansion, our objective was to diversify offerin
 3. Emphasized customer engagement strategies.
 4. Adopted a comprehensive approach considering age, location, and profession.
 5. Anticipated positive business outcomes - increased card usage, higher spending, and improved brand perception for Mitron Bank. This project exemplifies the integration of data analytics and strategic planning, positioning Mitron Bank for greater success in the financial market.
+
+[Link for the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTRjMzExNzItMzc0My00MzhkLWFkYzUtYmJiMWEwMmMzNzdlIiwidCI6IjkwMTlmNmMwLTllYjQtNDc2Ny05OTZmLWI2MzBkNjUxNGIzNyJ9)
