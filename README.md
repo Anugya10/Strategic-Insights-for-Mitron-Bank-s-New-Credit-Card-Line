@@ -3,6 +3,7 @@
 ## Overview of the Project: 
 Mitron Bank aimed to broaden its portfolio and introduce a fresh line of credit cards. Through meticulous analysis across demographics, average customer income, and expenditure patterns, we seek to enhance customer satisfaction and loyalty, thereby driving Mitron Bank toward greater success.
 
+
 In the Mitron Bank Credit Card Expansion, our objective was to diversify offerings and enhance market presence.
 
 ## Key observations:
